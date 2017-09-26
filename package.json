@@ -7,7 +7,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Viras-/cordova-plugin-powermanagement.git"
+        "url": "git+https://github.com/abroekhuis/cordova-plugin-powermanagement.git"
     },
     "author": "Viras-",
     "license": "Apache-2.0",
